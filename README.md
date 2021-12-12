@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+🌱 I am currently pursuing a Master Degree in Business Analytics at The American University of Beirut. This masters is the number one program in the MENA Region and ranks 43 globally!
+
+🔭 I’m currently working on an analytics project with a last-mile delivery company.
+
+📫 You can reach me at leenmogharbel@gmail.com
